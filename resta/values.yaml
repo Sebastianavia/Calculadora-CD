@@ -3,6 +3,7 @@
 # Declare variables to be passed into your templates.
 
 replicaCount: 1
+namespace: resta
 
 image:
   repository: sebastiannavia/micro-calculadora-resta
